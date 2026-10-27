@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/varawat/frescopa-20261027-162551/language-masters/en:/",
+    "/content/varawat/frescopa-20261027-162551/language-masters/en/:/en/",
+    "/content/varawat/frescopa-20261027-162551/configuration:/.helix/config.json",
+    "/content/varawat/frescopa-20261027-162551/metadata:/metadata.json",
+    "/content/varawat/frescopa-20261027-162551/redirects:/redirects.json",
+    "/content/varawat/frescopa-20261027-162551/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/varawat/frescopa-20261027-162551/",
+    "/content/dam/varawat/frescopa-20261027-162551/"
   ]
 }
